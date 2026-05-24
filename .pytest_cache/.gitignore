@@ -1,0 +1,4 @@
+# Created by pytest automatically.
+# For more details, see https://docs.pytest.org/en/stable/how-to/cache.html 
+# Ignore all files in this directory
+__pycache__/
